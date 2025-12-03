@@ -147,7 +147,13 @@ Project Link To The Past/
 
 ## 📸 Capturas de Pantalla
 
-*Próximamente...*
+<p align="center">
+  <img src="Screenshots/gameplay.png" alt="Gameplay Screenshot" width="800">
+</p>
+
+<p align="center">
+  <em>Escena del Taller - El jugador explorando el área de forja</em>
+</p>
 
 ---
 
